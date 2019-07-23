@@ -1144,7 +1144,7 @@
 
 @media screen and (max-width: 60em) {
 	.stack {
-		width: 240px;
-		height: 240px;
+		width: 320px;
+		height: 480px;
 	}
 }
