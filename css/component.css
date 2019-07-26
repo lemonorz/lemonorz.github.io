@@ -1,5 +1,5 @@
 .stack {
-	margin: 0 auto;
+	margin: 20px;
 	position: relative;
 	z-index: 1000;
 	width: 640px;
@@ -1144,7 +1144,7 @@
 
 @media screen and (max-width: 60em) {
 	.stack {
-		width: 400px;
+		width: 340px;
 
 	}
 }
