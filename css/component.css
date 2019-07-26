@@ -3,7 +3,7 @@
 	position: relative;
 	z-index: 1000;
 	width: 640px;
-	height: 640px;
+	height: 860px;
 	padding: 0;
 	list-style: none;
     pointer-events: none;
@@ -1144,7 +1144,7 @@
 
 @media screen and (max-width: 60em) {
 	.stack {
-		width: 320px;
+		width: 400px;
 
 	}
 }
